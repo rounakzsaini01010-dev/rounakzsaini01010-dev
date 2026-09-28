@@ -10,7 +10,7 @@ I enjoy building **real-world applications, websites, mobile apps, games, and in
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE Student
+- 🎓 BTech CS Student
 - 💻 Interested in Full Stack & Mobile App Development
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 📱 Building applications with Flutter
